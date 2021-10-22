@@ -1,0 +1,31 @@
+body{
+margin:0;
+padding-top:20px 
+}
+
+#poad{
+width:175px;
+margin-bottom:50px;
+border-radius:50%;
+}
+
+#welcome{
+opacity: 0.83;
+background: linear-gradient(#32a852 0%,#fcba03 100%) ;
+position: absolute;
+width: 100%;
+color:aquamarine;
+text-align: center;
+overflow:hidden;
+}
+#bio{
+text-align: center;
+padding-top : 400px ;
+background: blue
+}
+.line{
+height:10px;
+background-color:black;
+width: 50px; 
+ margin: auto ;
+}
